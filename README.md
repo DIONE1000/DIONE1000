@@ -1,4 +1,12 @@
-# Oi! Eu sou o Dione 👋
+### Sobre mim 👨‍💻
+
+- 🎓 Graduando em **Engenharia de Software**
+- 💻 Desenvolvedor **Fullstack** Freelancer
+- 🌐 Criação de **Websites** modernos e responsivos
+- ⚙️ Automação de processos **Web & Desktop** (RPA)
+- 🤖 Desenvolvimento de **Agentes de IA** (Vendas e Atendimento)
+
+*Transformando ideias em código e processos em eficiência.* 👋
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DIONE1000&show_icons=true&title_color=00d1ff&icon_color=00d1ff&text_color=e5e5e5&bg_color=0d1117&border_color=00d1ff&include_all_commits=true&count_private=true&locale=pt-br" />

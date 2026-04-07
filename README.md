@@ -30,14 +30,6 @@
 
 <br/>
 
-**Automação & RPA (Bots)**
-<div>
-  <img src="https://img.shields.io/badge/BotCity-00C2FF?style=for-the-badge&logo=botcity&logoColor=white">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</div>
-
-<br/>
 
 **Frontend & Design**
 <div>

@@ -11,7 +11,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DIONE1000&show_icons=true&title_color=00d1ff&icon_color=00d1ff&text_color=e5e5e5&bg_color=0d1117&border_color=00d1ff&include_all_commits=true&count_private=true&locale=pt-br" />
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIONE1000&layout=compact&title_color=00d1ff&icon_color=00d1ff&text_color=e5e5e5&bg_color=0d1117&border_color=00d1ff&bar_color=7b2cbf&locale=pt-br" />
 </div>
 
@@ -28,7 +27,6 @@
 </div>
 
 <br/>
-
 
 **Frontend & Design**
 <div>
@@ -53,8 +51,8 @@
 
 ### 📫 Contato:
 <div>
-  <a href="LINK_DO_SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="dionealvaroL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:dionealvaroL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 ---

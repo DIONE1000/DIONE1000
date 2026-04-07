@@ -3,7 +3,6 @@
 - 🎓 Graduando em **Engenharia de Software**
 - 💻 Desenvolvedor **Fullstack** Freelancer
 - 🌐 Criação de **Websites** modernos e responsivos
-- ⚙️ Automação de processos **Web & Desktop** (RPA)
 - 🤖 Desenvolvimento de **Agentes de IA** (Vendas e Atendimento)
 
 *Transformando ideias em código e processos em eficiência.* 👋

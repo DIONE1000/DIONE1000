@@ -10,8 +10,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&width=435&lines=Desenvolvedor+Fullstack;Especialista+em+IA;Automação+de+Processos+(RPA)" alt="Typing SVG" />
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DIONE1000&show_icons=true&title_color=00d1ff&icon_color=00d1ff&text_color=e5e5e5&bg_color=0d1117&border_color=00d1ff&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIONE1000&layout=compact&title_color=00d1ff&icon_color=00d1ff&text_color=e5e5e5&bg_color=0d1117&border_color=00d1ff&bar_color=7b2cbf&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats-git-masterhstic.vercel.app/api?username=DIONE1000&show_icons=true&title_color=00d1ff&icon_color=00d1ff&text_color=e5e5e5&bg_color=0d1117&border_color=00d1ff&include_all_commits=true&count_private=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats-git-masterhstic.vercel.app/api/top-langs/?username=DIONE1000&layout=compact&title_color=00d1ff&icon_color=00d1ff&text_color=e5e5e5&bg_color=0d1117&border_color=00d1ff&bar_color=7b2cbf&locale=pt-br" />
 </div>
 
 <br/>

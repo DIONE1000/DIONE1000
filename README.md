@@ -3,9 +3,7 @@
 - 🎓 Graduando em **Engenharia de Software**
 - 💻 Desenvolvedor **Fullstack** Freelancer
 - 🌐 Criação de **Websites** modernos e responsivos
-- 🤖 Desenvolvimento de **Agentes de IA** (Vendas e Atendimento)
-
-<br/>
+- 🤖 Desenvolvimento de **Agentes de IA** 
 
 ### 🚀 Tecnologias & Ferramentas
 

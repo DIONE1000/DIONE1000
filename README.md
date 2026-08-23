@@ -5,15 +5,6 @@
 - 🌐 Criação de **Websites** modernos e responsivos
 - 🤖 Desenvolvimento de **Agentes de IA** (Vendas e Atendimento)
 
-*Transformando ideias em código e processos em eficiência.* 👋
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&width=435&lines=Desenvolvedor+Fullstack;Especialista+em+IA;Automação+de+Processos+(RPA)" alt="Typing SVG" />
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DIONE1000&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DIONE1000&theme=radical" />
-</div>
-
 <br/>
 
 ### 🚀 Tecnologias & Ferramentas
